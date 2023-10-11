@@ -1,0 +1,49 @@
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 80px;
+  background-color: #072f48;
+  
+ 
+  
+}
+.left{
+  font-size: 1rem;
+  color:#f1faee;
+  
+  
+}
+.right{
+  color:#f1faee;
+
+}
+nav ul{
+  display: flex;
+  justify-content: center;
+}
+nav ul li{
+  list-style: none;
+  margin: 0 23px;
+  
+}
+nav ul li a{
+  text-decoration: none;
+  color: white
+
+}
+nav ul li a:hover{
+  color: rgb(216, 216, 248);
+}
+
+main hr{
+  border: 0;
+  background: #9c97f1;
+  height: 0.9px;
+  margin: 40px 84px;
+
+}
+html{
+  scroll-behavior: smooth;
+}
+
